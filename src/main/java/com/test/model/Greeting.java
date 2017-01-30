@@ -1,8 +1,5 @@
 package com.test.model;
 
-/**
- * Created by Dmytro_Iermolovych on 1/30/2017.
- */
 public class Greeting {
     private final long id;
     private final String content;
